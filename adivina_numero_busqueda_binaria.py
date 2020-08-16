@@ -1,9 +1,9 @@
 import random
 
 def run():
-    numero = random.randint(1,1000)
+    numero = random.randint(1,10000)
     inicio=0
-    fin=1000
+    fin=10000
 
     respuesta = input(f'el numero que esta pensando es mayor, menor o igua a {numero}? ')
 
