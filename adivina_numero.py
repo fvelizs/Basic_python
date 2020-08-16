@@ -14,7 +14,7 @@ def run():
         elif numero > aleatorio:
             print ("el numero es menor")
         
-        numero= int(input("elige numero"))
+        numero= int(input("elige numero "))
         
     print("ganaste!!!")
         
